@@ -42,10 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AngelZ5/AngelZ5/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social</h2>
 
 ###
