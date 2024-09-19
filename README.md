@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor front-end<br>- Salvador, Bahia<br>- Em busca do meu primeiro trabalho como desenvolvedor front-end</p>
+<p align="left">- Desenvolvedor front-end<br>- Salvador, Bahia<br>- Estudando sempre</p>
 
 ###
 
