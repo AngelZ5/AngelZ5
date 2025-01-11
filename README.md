@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudando front-end<br>- Salvador, Bahia<br>- Estudando sempre</p>
+<p align="left">- Estudando front-end<br>- Salvador, Bahia<br>- Sinta-se livre para ver os meus projetos</p>
 
 ###
 
