@@ -44,9 +44,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/angel-silva-de-santana-a84753311/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
   <a href="https://api.whatsapp.com/send/?phone=5571991409176&text=Hey+Angel%21&type=phone_number&app_absent=0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
