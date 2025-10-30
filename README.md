@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudando front-end<br>- Salvador, Bahia<br>- Sinta-se livre para ver os meus projetos</p>
+<p align="left">- Estudando front-end<br>- Salvador, Bahia<br>- Os projetos fixados abaixo são os mais importantes — aqueles que melhor representam o que aprendi, construí e mais gostei de criar.</p>
 
 ###
 
