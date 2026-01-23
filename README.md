@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudando front-end<br>- Salvador, Bahia<br>- Os projetos fixados abaixo são os mais importantes e representam o que realmente sei e gosto de fazer. Os outros são só testes, ideias aleatórias e projetos meio confusos que fiz enquanto aprendia. 😅</p>
+<p align="left">- Estudando Desenvolvimento de software de forma autodidata<br>- Salvador, Bahia<br>- Os projetos fixados abaixo são os mais importantes e representam o que realmente sei e gosto de fazer. Os outros são só testes, ideias aleatórias e projetos meio confusos que fiz enquanto aprendia. 😅</p>
 
 ###
 
