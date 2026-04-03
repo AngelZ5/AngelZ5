@@ -10,6 +10,15 @@
 
 ###
 
+<h2 align="left">Tech Stack</h2>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" height="40" alt="tech stack" />
+  <img src="https://img.shields.io/badge/daisyui-58337E?style=for-the-badge&logo=daisyui&logoColor=white" height="25" style="vertical-align: top; margin-top: 8px;" alt="daisyui" />
+</div>
+
+###
+
 <h2 align="left">Connect with me</h2>
 
 ###
