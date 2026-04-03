@@ -1,58 +1,21 @@
-<h1 align="left">Olá, eu me chamo Angel 😇</h1>
+<h1 align="left">Hey, I'm Angel Santana 😇</h1>
 
 ###
 
 <p align="left">
-- Estudando Desenvolvimento de software de forma autodidata<br>
-- Salvador, Bahia<br>
-- Os projetos fixados abaixo são os mais importantes e representam o que realmente sei e gosto de fazer. Os outros são só testes, ideias aleatórias e projetos meio confusos que fiz enquanto aprendia 😅<br>
-- Caso minhas contribuições (commits ou envio de projetos) não estejam frequentes, provavelmente estou envolvido em projetos de longo prazo ou projetos particulares que não estão públicos no momento.
+  <b>Software Developer transitioning to AI/LLM Engineering</b><br>
+  Salvador, Bahia, Brazil<br>
+  Currently focused on the <b>AI Engineer Core Track</b> and building autonomous systems.<br>
 </p>
 
-
 ###
 
-<p align="left"></p>
-
-###
-
-<h1 align="left">Techs</h1>
+<h2 align="left">Connect with me</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelZ5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngelZ5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelZ5&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">Social</h2>
-
-###
-
-<div align="left">
-  <a href="https://api.whatsapp.com/send/?phone=5571991409176&text=Hey+Angel%21&type=phone_number&app_absent=0" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=5571999000132&text=Hey+Angel%21" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
