@@ -4,7 +4,7 @@
 
 <p align="left">
   <b>Web Developer transitioning to AI/LLM Engineering</b><br>
-  Salvador, Bahia, Brazil<br>
+  Brazil<br>
   Currently focused on the <b>AI Engineer Core Track</b> and building autonomous systems.<br>
 </p>
 
