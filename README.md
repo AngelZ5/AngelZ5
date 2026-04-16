@@ -6,6 +6,7 @@
   <b>Web Developer transitioning to AI/LLM Engineering</b><br>
   Brazil<br>
   Currently focused on the <b>AI Engineer Core Track</b> and building autonomous systems.<br>
+  <b>If my contribution graph looks quiet, it's because I'm currently focused on **Closed Source projects** and high-scale applications that are not public yet.</b><br>
 </p>
 
 ###
