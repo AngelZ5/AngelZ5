@@ -14,7 +14,7 @@
 <h2 align="left">Tech Stack</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,vite,firebase" height="40" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,tailwind,vite,firebase,fastapi,insomnia" height="40" alt="tech stack" />
   <img src="https://img.shields.io/badge/daisyui-58337E?style=for-the-badge&logo=daisyui&logoColor=white" height="25" style="vertical-align: top; margin-top: 8px;" alt="daisyui" />
 </div>
 
@@ -28,4 +28,8 @@
   <a href="https://api.whatsapp.com/send/?phone=5571999000132&text=Hey+Angel%21" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
+<a href="https://www.linkedin.com/in/angel-silva-de-santana-58aa74354/" target="_blank">
+  <img src="[https://shields.io](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png)" alt="LinkedIn Badge"/>
+</a>
+
 </div>
