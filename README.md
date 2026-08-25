@@ -15,7 +15,7 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,tailwind,vite,firebase,fastapi" height="40" alt="tech stack" />
-  <img src="https://skillicons.dev/icons?i=insomnia" height="40" alt="insomnia logo" />
+  <img src="https://cdn.simpleicons.org/insomnia" height="40" alt="Insomnia logo" />
   
   <img src="https://img.shields.io/badge/daisyui-58337E?style=for-the-badge&logo=daisyui&logoColor=white" height="25" style="vertical-align: top; margin-top: 8px;" alt="daisyui" />
 </div>
