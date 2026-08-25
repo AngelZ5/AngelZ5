@@ -26,10 +26,10 @@
 
 <div align="left">
   <a href="https://api.whatsapp.com/send/?phone=5571999000132&text=Hey+Angel%21" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
   </a>
-<a href="https://www.linkedin.com/in/angel-silva-de-santana-58aa74354/" target="_blank">
-  <img src="[https://shields.io](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png)" alt="LinkedIn Badge"/>
-</a>
 
+  <a href="https://www.linkedin.com/in/angel-silva-de-santana-58aa74354/" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" width="40" height="40" alt="LinkedIn logo" />
+  </a>
 </div>
