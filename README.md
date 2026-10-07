@@ -18,6 +18,9 @@
   <img src="https://cdn.simpleicons.org/insomnia" height="40" alt="Insomnia logo" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="Jest logo" />
 <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright logo">
+<img src="https://cdn.simpleicons.org/mysql" height="40" alt="MySQL logo" />
+
+
   
   <img src="https://img.shields.io/badge/daisyui-58337E?style=for-the-badge&logo=daisyui&logoColor=white" height="25" style="vertical-align: top; margin-top: 8px;" alt="daisyui" />
 
